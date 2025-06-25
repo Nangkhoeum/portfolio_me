@@ -231,15 +231,15 @@ export default {
           company: 'Personal Project',
           period: '2024',
           description: 'Developed a real-time expense tracking application with interactive charts and monthly calculations, demonstrating proficiency in vanilla JavaScript and data visualization.',
-          technologies: ['JavaScript', 'HTML5', 'CSS3', 'Chart.js', 'Local Storage']
+          technologies: ['JavaScript', 'HTML', 'CSS','Local Storage']
         },
         {
           id: 3,
-          title: 'Telegram Weather Chatbot',
+          title: 'Telegram Chatbot',
           company: 'Algorithm Project',
           period: '2024',
           description: 'Created an intelligent chatbot using algorithmic responses to provide weather information for Cambodia, integrating external APIs and natural language processing.',
-          technologies: ['JavaScript', 'Telegram API', 'Weather API', 'Node.js']
+          technologies: ['JavaScript', 'Telegram API', 'Weather API', 'Algorithm Concept', 'CSS']
         },
         {
           id: 4,
@@ -247,7 +247,7 @@ export default {
           company: 'Web Design Project',
           period: '2024',
           description: 'Designed and developed a fully responsive bakery website with clean aesthetics, ensuring cross-device compatibility and optimal user experience.',
-          technologies: ['HTML5', 'CSS3', 'Sass', 'Responsive Design', 'JavaScript']
+          technologies: ['HTML', 'CSS', 'Sass', 'Responsive Design', 'JavaScript']
         }
       ]
     }

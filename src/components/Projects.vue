@@ -142,7 +142,7 @@ export default {
           id: 5,
           title: 'Figma Design Poster',
           description: 'A content management system for bloggers with markdown support and SEO optimization.',
-          image: 'https://s3-alpha.figma.com/hub/file/4838229701/23bbb6b2-3f5d-4261-a10d-693c3bfda781-cover.png',
+          image: 'https://d1csarkz8obe9u.cloudfront.net/posterpreviews/digital-marketing-advertisement-design-template-ca539ed28728e68f73cf8a8415a8a006_screen.jpg?ts=1662986770',
           technologies: ['HTML', 'CSS', 'Sass']
         },
         {

@@ -44,7 +44,7 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-16">
           <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Skills & Technologies</h2>
-          <p class="text-lg text-gray-600">Technologies I work with</p>
+          <p class="text-lg text-gray-600">Technologies I have learn</p>
         </div>
         <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-8">
           <div
@@ -72,8 +72,9 @@ export default {
   data() {
     return {
       skills: [
-        'JavaScript', 'Vue.js', 'React', 'Node.js', 'Python', 'TypeScript',
-        'HTML/CSS', 'MongoDB', 'PostgreSQL', 'AWS', 'Docker', 'Git'
+        'JavaScript', 'Vue.js', 'OOP', 'Node.js', 'Algorithm', 'TypeScript',
+        'HTML/CSS', 'PHP', 'MySQL', 'AWS', 'GitHub', 'Git','Bootstrap',
+        'Tailwind', 'Figma', 'Web Design', 'Laravel', 'Wordpress'
       ]
     }
   }

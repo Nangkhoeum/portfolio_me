@@ -67,7 +67,7 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center">
           <p class="text-gray-400">
-            © 2024 John Doe. All rights reserved.
+            © 2025 My Personal information. All rights reserved.© 2025 .
           </p>
         </div>
       </div>

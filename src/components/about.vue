@@ -82,37 +82,6 @@
         </div>
       </div>
 
-      <!-- Skills Highlight -->
-      <div class="mb-20">
-        <h3 class="text-2xl font-bold text-center text-gray-900 mb-8">Technical Expertise</h3>
-        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-          <div class="bg-white p-4 rounded-xl shadow-sm hover:shadow-md transition-all duration-300 text-center group hover:scale-105">
-            <div class="w-12 h-12 bg-yellow-100 rounded-full flex items-center justify-center mx-auto mb-3 group-hover:bg-yellow-200 transition-colors">
-              <span class="text-2xl">⚡</span>
-            </div>
-            <span class="text-sm font-semibold text-gray-700">JavaScript</span>
-          </div>
-          <div class="bg-white p-4 rounded-xl shadow-sm hover:shadow-md transition-all duration-300 text-center group hover:scale-105">
-            <div class="w-12 h-12 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-3 group-hover:bg-blue-200 transition-colors">
-              <span class="text-2xl">🎨</span>
-            </div>
-            <span class="text-sm font-semibold text-gray-700">UI/UX Design</span>
-          </div>
-          <div class="bg-white p-4 rounded-xl shadow-sm hover:shadow-md transition-all duration-300 text-center group hover:scale-105">
-            <div class="w-12 h-12 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-3 group-hover:bg-green-200 transition-colors">
-              <span class="text-2xl">🤖</span>
-            </div>
-            <span class="text-sm font-semibold text-gray-700">Chatbot Dev</span>
-          </div>
-          <div class="bg-white p-4 rounded-xl shadow-sm hover:shadow-md transition-all duration-300 text-center group hover:scale-105">
-            <div class="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center mx-auto mb-3 group-hover:bg-purple-200 transition-colors">
-              <span class="text-2xl">🏗️</span>
-            </div>
-            <span class="text-sm font-semibold text-gray-700">Full Stack</span>
-          </div>
-        </div>
-      </div>
-
       <!-- Experience Section -->
       <div class="mb-20">
         <div class="text-center mb-12">
